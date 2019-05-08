@@ -12,6 +12,4 @@ dfu-programmer
 download the repo, and run the command: 
 make
 
-\n
-
 The screen may blink/flash when starting up for the first time - just restart the LaFortuna board.
