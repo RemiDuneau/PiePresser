@@ -10,6 +10,8 @@ It's a simple Cookie Clicker game, just with pies instead of cookies... The maxi
 
 - dfu-programmer
 
+- (a LaFortuna board)
+
 ## How to run
 download, and run the command: make
 
