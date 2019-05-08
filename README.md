@@ -11,7 +11,6 @@ It's a simple Cookie Clicker game, just with pies instead of cookies... The maxi
 - dfu-programmer
 
 ## How to run
-download the repo, and run the command: 
-make
+download, and run the command: make
 
 The screen may blink/flash when starting up for the first time - just restart the LaFortuna board.
