@@ -14,9 +14,6 @@
 #include "ruota.h"
 
 
-#define ROTA	PE4
-#define ROTB	PE5
-
 #define COMPASS_SWITCHES (_BV(SWW)|_BV(SWS)|_BV(SWE)|_BV(SWN))
 #define ALL_SWITCHES (_BV(SWC) | COMPASS_SWITCHES | _BV(OS_CD))
 

@@ -4,6 +4,7 @@
  *
  *  
  *  - Jan 2015  Modified for LaFortuna (Rev A, black edition) [KPZ]
+ *  - May 2019  Slightly modified for PiePresser by Remi Duneau
  */
 
 #include <avr/io.h>

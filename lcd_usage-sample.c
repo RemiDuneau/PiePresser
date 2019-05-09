@@ -1,4 +1,6 @@
-/* For La Fortuna board.            */
+/* For La Fortuna board.            
+* Modified and expanded for PiePresser by Remi Duneau
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
